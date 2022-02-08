@@ -26,3 +26,19 @@ GO
 "ConnectionStrings": {
     "DefaultConnection": "Server=<servidorsqlserver>;Database=db_ExamenTecnico;Trusted_Connection=True;MultipleActiveResultSets=true"
   },
+	
+	
+	
+4-
+	
+Debo de mencionar que el desarrollo lo elaboré al cabo de los dias aun asi puntualmente sin tomar en cuenta horas de investigacion y/o prueba-error; estas 
+serian horas aproximadas.
+	
+	
+	
+Historia 1 y 3 = 4horas;
+Historia 2 = 5 horas;
+Historia 4 = 2 horas;
+
+
+
